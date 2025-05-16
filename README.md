@@ -46,7 +46,12 @@ https://etherscan.io/accounts/8
 /frontend: React Vite frontend app
 ## 📷 Screenshot
 
-![dashboard preview](preview.png)
+![wallet](https://github.com/user-attachments/assets/e3486b90-21a5-442e-9324-9bd57a4b0806)
+![1_ether](https://github.com/user-attachments/assets/89f7e56c-d6a0-4fc7-880b-47e48ee15dcb)
+![2_ether](https://github.com/user-attachments/assets/89c9f5b6-f704-40bc-b645-791465e32fa2)
+![3_ether](https://github.com/user-attachments/assets/77c362a9-c4c4-4c28-a900-61229693220c)
+![4_ether](https://github.com/user-attachments/assets/ccf3f56a-f8b7-42e8-a2f4-58448ad3ccd1)
+
 
 ## 🔑 Environment Variables
 
