@@ -16,7 +16,7 @@ Wallet Analyzer is a full-stack application that allows users to explore the his
 - **Backend:** Java 17, Spring Boot, WebClient, Etherscan API
 - **Frontend:** React + Vite, TailwindCSS, Recharts
 - **Other:** Axios, jsPDF, html2canvas, React Router
-### 🔑 How to Get an Etherscan API Key
+###  How to Get an Etherscan API Key
 
 1. Go to [https://etherscan.io/myapikey](https://etherscan.io/myapikey)
 2. Sign in or create an account.
@@ -36,15 +36,15 @@ You can look example ethereum address from this web site
 ```bash
 https://etherscan.io/accounts/8
 ```
-### 🧪 Swagger UI
+###  Swagger UI
 ```bash
  http://localhost:8313/swagger-ui/index.html#/
 ```
-## 📂 Project Structure
+##  Project Structure
 /backend: Spring Boot API server
 
 /frontend: React Vite frontend app
-## 📷 Screenshot
+##  Screenshot
 
 ![wallet](https://github.com/user-attachments/assets/e3486b90-21a5-442e-9324-9bd57a4b0806)
 ![1_ether](https://github.com/user-attachments/assets/89f7e56c-d6a0-4fc7-880b-47e48ee15dcb)
@@ -53,7 +53,7 @@ https://etherscan.io/accounts/8
 ![4_ether](https://github.com/user-attachments/assets/ccf3f56a-f8b7-42e8-a2f4-58448ad3ccd1)
 
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create a `.env` file or set the following variables:
 
@@ -61,7 +61,7 @@ Create a `.env` file or set the following variables:
 ETHERSCAN_API_KEY=your_api_key_here
 ```
 
-## 📦 Run the Project
+##  Run the Project
 ```bash
 # Backend
 cd backend
