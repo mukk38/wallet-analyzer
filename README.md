@@ -11,7 +11,7 @@ Wallet Analyzer is a full-stack application that allows users to explore the his
 -  Visual and exportable dashboard (PDF/PNG)
 -  Dark mode & responsive design
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Backend:** Java 17, Spring Boot, WebClient, Etherscan API
 - **Frontend:** React + Vite, TailwindCSS, Recharts
